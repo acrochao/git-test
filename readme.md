@@ -8,6 +8,6 @@ modify readme.md file after git add.
 
 create a branch dev.
 
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
 
 dd merge
