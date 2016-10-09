@@ -14,3 +14,4 @@ dd merge
 
 
 test color
+test alias
